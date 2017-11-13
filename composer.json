@@ -1,0 +1,7 @@
+{
+    "name": "duy/testpackage",
+    "version": "1.0.2",
+    "require": {
+        "monolog/monolog": "^1.23"
+    }
+}
